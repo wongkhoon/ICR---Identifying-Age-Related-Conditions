@@ -1,2 +1,3 @@
 # ICR---Identifying-Age-Related-Conditions
-Kaggle competition 
+
+For more information, please visit https://www.kaggle.com/competitions/icr-identify-age-related-conditions/overview
